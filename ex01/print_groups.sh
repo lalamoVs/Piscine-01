@@ -1,1 +1,1 @@
-printf "%s$>\n" "$(groups | tr ' ', ',')"
+printf "%s$>\n" "$(groups $FT_USER | tr ' ', ',')"
