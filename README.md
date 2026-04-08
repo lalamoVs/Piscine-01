@@ -7,8 +7,11 @@ to call variable:
 command: printf, groups, tr, Pipeline (|)
 
 printf: Display a formatted string (Similiar in python)
+
 groups: Display the groups user
+
 tr: translate/replace/ characters from input
+
 Pipeline (|): Additional execution
 
 display a formatted string from a list of groups the user is belong to
